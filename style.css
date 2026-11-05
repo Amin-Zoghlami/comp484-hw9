@@ -1,0 +1,32 @@
+/* Extra credit light styling*/
+/* Page background and base font */
+body {
+  font-family: system-ui, sans-serif;
+  background-color: #f0f2f5;
+  color: #222;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 24px 16px;
+}
+
+h1 {
+  text-align: center;
+}
+
+/* Each section looks like a separate card */
+.card {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  padding: 16px 20px;
+  margin-bottom: 20px;
+}
+
+/* For the heading inside each card */
+.card h2 {
+  margin-top: 0;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #4a90d9;
+  font-size: 1.25rem;
+}
