@@ -140,16 +140,16 @@ const formattedDifference = populationDifference.toLocaleString();
 
 // Building the output string
 const mathResults =
-  "<p>India: " +
+  "<p>India Population: " +
   formattedIndiaPopulation +
   "</p>" +
-  "<p>China: " +
+  "<p>China Population: " +
   formattedChinaPopulation +
   "</p>" +
   "<p>United States Population: " +
   formattedUnitedStatesPopulation +
   "</p>" +
-  "<p>Combined population: " +
+  "<p>Combined Population: " +
   formattedTotal +
   " " +
   sizeMessage +
