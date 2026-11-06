@@ -154,7 +154,7 @@ const mathResults =
   " " +
   sizeMessage +
   "</p>" +
-  "<p>Difference between India and China Population: " +
+  "<p>Difference between India's and China's Population: " +
   formattedDifference +
   "</p>";
 
